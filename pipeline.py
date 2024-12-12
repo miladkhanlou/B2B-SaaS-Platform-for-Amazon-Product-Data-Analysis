@@ -189,4 +189,3 @@ def transform_stage():
 if __name__ == "__main__":
     extract_stage()
     transform_stage()
-    print("Pipeline execution completed.")
